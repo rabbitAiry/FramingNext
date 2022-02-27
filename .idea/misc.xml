@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/appCreation/FramingNext/app/src/main/res/drawable/border_black_cornered_rectangle.xml" value="0.1335" />
+        <entry key="..\:/appCreation/FramingNext/app/src/main/res/drawable/sub_border_cornered_rectangle.xml" value="0.1335" />
+        <entry key="..\:/appCreation/FramingNext/app/src/main/res/layout/activity_main.xml" value="0.275" />
+        <entry key="..\:/appCreation/FramingNext/app/src/main/res/layout/dialog_table_item_edit.xml" value="0.275" />
+        <entry key="..\:/appCreation/FramingNext/app/src/main/res/layout/fragment_table.xml" value="0.16018518518518518" />
+        <entry key="..\:/appCreation/FramingNext/app/src/main/res/layout/item_table_content.xml" value="0.25925925925925924" />
+        <entry key="..\:/appCreation/FramingNext/app/src/main/res/layout/item_table_date.xml" value="0.275" />
+        <entry key="..\:/appCreation/FramingNext/app/src/main/res/layout/item_table_date_tag.xml" value="0.275" />
+        <entry key="..\:/appCreation/FramingNext/app/src/main/res/layout/item_table_period.xml" value="0.275" />
+        <entry key="..\:/appCreation/FramingNext/app/src/main/res/layout/item_table_period_tag.xml" value="0.275" />
+        <entry key="..\:/appCreation/FramingNext/app/src/main/res/layout/item_todo.xml" value="0.27076923076923076" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
